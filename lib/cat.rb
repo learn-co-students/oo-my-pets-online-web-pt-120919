@@ -1,3 +1,4 @@
 class Cat
-  # code goes here
+  def cat 
+    attr_accessor 
 end
